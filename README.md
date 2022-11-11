@@ -8,6 +8,6 @@ Have fun! If you have any issues/optimisation ideas, contact me via [My Website]
 ## Requirements
 
 - Python (used Python `3.10` when writting this project)
-- OpenCV (Library concepted to solve Video Tracking tasks.) --- `pip install pip install opencv-contrib-python` & `pip install opencv-python`
+- OpenCV (Library concepted to solve Video Tracking tasks.) --- `pip install opencv-contrib-python` & `pip install opencv-python`
 - Threading (Library that allows us run multiple tasks simultaneously on separate CPU cores.) --- `pip install threading6`
 - PlaySound (Library that allows to the script to play sounds.) --- `pip install playsound`
