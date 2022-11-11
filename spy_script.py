@@ -3,7 +3,7 @@
 ##################################################################
 
 import cv2         # Library concepted to solve Video Tracking tasks. 
-import threading   # Library that allows us run multiple tasks simultaneously.
+import threading   # Library that allows us run multiple tasks simultaneously on separate CPU cores.
 import playsound   # Library that allows to the script to play sounds.
 
 spy_lock = threading.Lock()
